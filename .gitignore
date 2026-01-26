@@ -1,6 +1,4 @@
 venv/
 .venv/
 __pycache__/
-*.txt
-*.tsv
 .DS_Store
